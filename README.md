@@ -11,3 +11,6 @@ INFORMACJA!
 
 
 **PROGRAM TYLKO DLA SYSTEMÓW WINDOWS**
+
+ps. jeżeli chcesz użyć funkcji nping to musisz pobrać instalke programu nmap stąd:
+https://mega.nz/folder/K44TzLAZ#smZcdGkjUgEitgHrqrXdCA
